@@ -1,0 +1,2 @@
+# PasswordManager_Python
+Have your ever felt that you you have tons passwords and you keep forgetting them. Never let it happen again. Introducing to this Password Manager Application which is able to store your passwords, retrieve your passwords and also can generate passwords. This best thing about this is that it is absolutely free for lifetime . We guarantee regular updates. This application generates 12-digit passwords which is highly secure. This application is memory efficient. Okay, come on. Please read the readme.md file to download and use this tooll
